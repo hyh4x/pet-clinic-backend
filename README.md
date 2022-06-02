@@ -1,5 +1,5 @@
 # pet-clinic-backend
-Ongoing project inspired by Spring Pet Clinic. Developed with Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, Docker, Keycloak
+Project inspired by Spring Pet Clinic. Developed with Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, Docker, Keycloak
 
 Uses 4 Docker containers:
 - app: Spring Boot Resource Server
